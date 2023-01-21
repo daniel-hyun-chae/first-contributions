@@ -1736,4 +1736,5 @@
 - [Jean-Marie Lator](https://github.com/Bescore)
 - [deivard](https://github.com/deivard)
 - [Chao Neil Aryan Borgohain](https://github.com/ChaoNEil)
+- [Hyun Chae](https://github.com/daniel-hyun-chae)
   <!-- prettier-ignore-end -->
